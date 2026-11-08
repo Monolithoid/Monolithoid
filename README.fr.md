@@ -28,6 +28,10 @@ Bienvenue sur mon profil GitHub ! Je développe des projets autour de l’intell
 
 **Technologies présentes dans mes projets :** Python, JavaScript, PHP, Shell, Coolify, Discord, SteamCMD, Wine et NAO.
 
+### Images Docker
+
+Je publie également des images Docker sur [Docker Hub — monolithoid](https://hub.docker.com/repositories/monolithoid). Vous y trouverez les dépôts disponibles, leurs images, leurs tags et les instructions d’utilisation.
+
 ### Assistance IA
 
 Je réalise ces projets avec l’aide des outils d’OpenAI et de Claude (Anthropic).
