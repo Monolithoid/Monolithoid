@@ -1,3 +1,5 @@
+![Monolithoid — IA, robotique et auto-hébergement](./assets/monolithoid-projets-social.jpg)
+
 # Monolithoid
 
 **IA · Robotique · Serveurs de jeux · Web & médias**
