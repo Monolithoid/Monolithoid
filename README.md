@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I develop projects involving artificial intelligen
 
 | Preview | Project |
 | :---: | :--- |
-| <a href="https://github.com/Monolithoid/ia-agent"><img src="https://raw.githubusercontent.com/Monolithoid/ia-agent/HEAD/assets/myAIBodiesHub-social.jpg" alt="Banner for ia-agent" width="200"></a> | **[ia-agent](https://github.com/Monolithoid/ia-agent)**<br>My artificial intelligence agent project, built with Python. |
-| <a href="https://github.com/Monolithoid/ia-bd"><img src="https://raw.githubusercontent.com/Monolithoid/ia-bd/HEAD/assets/monoobd-social.jpg" alt="Banner for ia-bd" width="200"></a> | **[ia-bd](https://github.com/Monolithoid/ia-bd)**<br>An AI stack to help me create comics, built with JavaScript. |
+| <a href="https://github.com/Monolithoid/myAIBodiesHub"><img src="https://raw.githubusercontent.com/Monolithoid/myAIBodiesHub/HEAD/assets/myAIBodiesHub-social.jpg" alt="Banner for myAIBodiesHub" width="200"></a> | **[myAIBodiesHub](https://github.com/Monolithoid/myAIBodiesHub)**<br>My artificial intelligence agent project, built with Python. |
+| <a href="https://github.com/Monolithoid/monoobd"><img src="https://raw.githubusercontent.com/Monolithoid/monoobd/HEAD/assets/monoobd-social.jpg" alt="Banner for monoobd" width="200"></a> | **[monoobd](https://github.com/Monolithoid/monoobd)**<br>An AI stack to help me create comics, built with JavaScript. |
 
 ### Robotics & expression
 
