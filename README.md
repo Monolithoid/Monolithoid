@@ -1,4 +1,4 @@
-![Monolithoid — IA, robotique et auto-hébergement](./assets/monolithoid-projets-social.jpg)
+![Monolithoid — AI, robotics and self-hosting](./assets/monolithoid-projets-social.jpg)
 
 # Monolithoid
 
